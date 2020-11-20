@@ -2,6 +2,11 @@
   "name": "pixel-art",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Dony Cisneros",
+    "email": "dony.cisne@gmail.com",
+    "url": "https://www.donycisneros.com/"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
